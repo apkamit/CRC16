@@ -11,4 +11,4 @@ This contains a general code to implement the CRC16 algorithms such as
   9. CRC-16/XMODEM
 
 To try this code, we can just uncomment your chosen algorithm and comment remaining definitions.
-To verify the results, you can visit [webpage] (crccalc.com).
+To verify the results, you can visit [webpage](https://crccalc.com).
